@@ -1,0 +1,33 @@
+* {
+  background-color: #e2e2f1;
+  color: #0f1013;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Roboto Slab';
+}
+
+.header, .footer {
+  font-size: 0.8rem;
+  position: absolute;
+  bottom: 1em;
+}
+
+.header {
+  left: 1em;
+}
+
+.footer {
+  right: 1em;
+  text-align: right;
+}
+
+.inner-step .half {
+  display: block;
+  width: 50%;
+}
+
+.inner-step .two-thirds {
+  display: block;
+  width: 66%;
+}
