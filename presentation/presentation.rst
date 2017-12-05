@@ -29,7 +29,7 @@ A Brief Presenter Introduction
     :width: 800px
 
 .. note
-  In my main job, I write sofware for scientists to use at a non-profit medical research institution.
+  In my main job, I write software for scientists to use at a non-profit medical research institution.
   As part of that job, I might make contributions to open-source projects as long as that helps me do my job -- what kind of contributions, we'll cover later.
 
 .. note
